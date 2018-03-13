@@ -6,5 +6,4 @@ public class Dummy {
 		System.out.println("dummy project");
 		System.out.println("jf");
 	}
-
 }
